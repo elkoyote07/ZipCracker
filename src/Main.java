@@ -20,11 +20,11 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("[+] Web to crawl: ");
+        System.out.println("[+] Web a analizar: ");
 
         String targetWeb = scanner.nextLine();
 
-        System.out.println("[+] ZIP absolute path: ");
+        System.out.println("[+] Path absoluto del ZIP: ");
 
         String zipPath = scanner.nextLine();
 
